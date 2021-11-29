@@ -1,0 +1,23 @@
+header{
+	text-align: center;
+	font-family: 'PT Serif', serif;
+}
+.info{
+	text-align: center;
+	font-family: 'PT Serif', serif;
+	font-weight: bold;
+}
+footer{
+	text-align: center;
+}
+.navigation{
+	color: black;
+}
+.paryskinti{
+	font-weight: bold;
+}
+.poraste{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
